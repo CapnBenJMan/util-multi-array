@@ -1,0 +1,31 @@
+{
+  "name": "util-multi-array",
+  "version": "1.0.0",
+  "description": "An explicitly 2d array",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapnBenJMan/util-multi-array.git"
+  },
+  "keywords": [
+    "MultiArray",
+    "2D",
+    "Array",
+    "Array"
+  ],
+  "author": "CapnBenJMan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapnBenJMan/util-multi-array/issues"
+  },
+  "homepage": "https://github.com/CapnBenJMan/util-multi-array#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
